@@ -1,7 +1,5 @@
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/RamalhoRamalhoIPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
-
 #EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="A&E_FHD" tvg-logo="https://i.ibb.co/LSpvgqC/aee.png" group-title="CANAIS || FILMES E SÉRIES",A&E_FHD
 http://nitrohd.xyz:80/romance/romance/892178
 #EXTINF:-1 tvg-id="" tvg-name="A&E_HD" tvg-logo="https://i.ibb.co/LSpvgqC/aee.png" group-title="CANAIS || FILMES E SÉRIES",A&E_HD
